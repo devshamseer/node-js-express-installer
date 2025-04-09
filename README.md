@@ -9,4 +9,4 @@ Before you begin, ensure you have the following installed:
 
    
    ```bash
-   nodejs-express-server-installer.git
+   source <(curl -s https://devshamseer.github.io/node-js-express-installer/nodejs_express_server_installer.text)
